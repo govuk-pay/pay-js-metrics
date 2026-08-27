@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alphagov/pay-js-metrics.git"
+    "url": "git+https://github.com/govuk-pay/pay-js-metrics.git"
   },
   "author": "GOV.UK Pay",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alphagov/pay-js-metrics/issues"
+    "url": "https://github.com/govuk-pay/pay-js-metrics/issues"
   },
-  "homepage": "https://github.com/alphagov/pay-js-metrics#readme",
+  "homepage": "https://github.com/govuk-pay/pay-js-metrics#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
